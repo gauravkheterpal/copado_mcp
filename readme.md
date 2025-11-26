@@ -1,6 +1,6 @@
 # Copado MCP Server Walkthrough
 
-I have built a Copado MCP Server that exposes DevOps capabilities to LLMs.
+I have built a Copado MCP Server using Google Antigravity that exposes Copado DevOps capabilities to LLMs.
 
 ## Features
 - **List User Stories**: Retrieve user stories with optional status filtering.
